@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EliteHouse_Web-site-practiceReact/static/css/main.e59254b4.css",
+    "main.js": "/EliteHouse_Web-site-practiceReact/static/js/main.77180dee.js",
+    "static/media/Fasad_v3_c081.png": "/EliteHouse_Web-site-practiceReact/static/media/Fasad_v3_c081.f1a7453db5340f2078bb.png",
+    "static/media/Group 95.png": "/EliteHouse_Web-site-practiceReact/static/media/Group 95.dccbd1400c97f22f341d.png",
+    "static/media/Fasad_v3_c08 1 -3-.png": "/EliteHouse_Web-site-practiceReact/static/media/Fasad_v3_c08 1 -3-.79f3f5778fd6f1a68903.png",
+    "static/media/Снимок экрана 2020-02-28 в 14.08 1.png": "/EliteHouse_Web-site-practiceReact/static/media/Снимок экрана 2020-02-28 в 14.08 1.635d5ca2056008795b80.png",
+    "static/media/Fasad_v3_c08 1 -1-.png": "/EliteHouse_Web-site-practiceReact/static/media/Fasad_v3_c08 1 -1-.cec11eb38978b47095ac.png",
+    "static/media/Fasad_v3_c08 1 -6-.png": "/EliteHouse_Web-site-practiceReact/static/media/Fasad_v3_c08 1 -6-.b6cf9b904247ae088a20.png",
+    "static/media/Fasad_v3_c08 1 -4-.png": "/EliteHouse_Web-site-practiceReact/static/media/Fasad_v3_c08 1 -4-.9ccea295a39029498e23.png",
+    "static/media/Fasad_v3_c08 1 -2-.png": "/EliteHouse_Web-site-practiceReact/static/media/Fasad_v3_c08 1 -2-.61c4e2711c9f1e150422.png",
+    "static/media/www2.png": "/EliteHouse_Web-site-practiceReact/static/media/www2.c0e59bf7db86db742064.png",
+    "static/media/Group 97.png": "/EliteHouse_Web-site-practiceReact/static/media/Group 97.b5f98f8661ffcf760cbe.png",
+    "static/media/www3.png": "/EliteHouse_Web-site-practiceReact/static/media/www3.96584823cbbc4b7d1097.png",
+    "static/media/www1.png": "/EliteHouse_Web-site-practiceReact/static/media/www1.2c36cdfe27c2baa286e9.png",
+    "index.html": "/EliteHouse_Web-site-practiceReact/index.html",
+    "main.e59254b4.css.map": "/EliteHouse_Web-site-practiceReact/static/css/main.e59254b4.css.map",
+    "main.77180dee.js.map": "/EliteHouse_Web-site-practiceReact/static/js/main.77180dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e59254b4.css",
+    "static/js/main.77180dee.js"
+  ]
+}
