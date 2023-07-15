@@ -1,0 +1,34 @@
+.karta_block {
+    text-align: center;
+    position: relative;
+}
+
+#posit {
+    position: absolute;
+    right: 500px;
+    bottom: 105px;
+}
+
+#frame1 {
+    position: absolute;
+    right: 750px;
+    bottom: 245px;
+}
+
+#frame2 {
+    position: absolute;
+    left: 570px;
+    top: 60px;
+}
+
+#frame3 {
+    position: absolute;
+    left: 350px;
+    top: 205px;
+}
+
+#frame4 {
+    position: absolute;
+    right: 480px;
+    top: 90px;
+}

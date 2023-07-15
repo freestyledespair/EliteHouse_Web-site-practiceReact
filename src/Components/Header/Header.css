@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: url(../../assets/Fasad_v3_c081.png) center / cover no-repeat;
+    height: 120vh;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    /* border: 1px solid aqua; */
+}
+
+.wrapper_header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* margin-top: 35px; */
+    height: 110vh;
+}
+
+.header_block_zayavka {
+    display: flex;
+    justify-content: space-between;
+}
+
+.palochki {
+    width: 22px;
+    height: 3px;
+    background-color: #ED6B06;
+    margin-top: 4px;
+}
+
+.zayavka_block {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex: 0 1 20%;
+    background: 238px 55px #2D2D2D;
+    border-radius: 5px;
+}
+
+h4 {
+    color: white
+}
+
+.header_block_menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+nav {
+    flex: 0 1 70%;
+    /* border: 1px solid blue; */
+}
+
+.menu li {
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+
+.menu li:hover {
+    color: rgba(0, 0, 0, 0.588);
+}
+
+.right_block {
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid yellow; */
+    align-items: center;
+    flex: 0 1 20%;
+    color: white;
+}
+
+.logo {
+    /* border: 1px solid red; */
+}
+
+.right_block .number_tel {
+    font-size: 18px;
+}

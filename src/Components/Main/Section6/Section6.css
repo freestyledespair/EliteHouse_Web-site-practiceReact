@@ -1,0 +1,22 @@
+.barter_block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section1,
+.section2,
+.section3,
+.section4,
+.section5,
+.section6 {
+    margin-top: 70px;
+}
+
+.barter_img {
+    border: 20px solid #464646;
+}
+
+.barter_img:hover {
+    background-color: grey;
+    border: 20px solid grey;
+}

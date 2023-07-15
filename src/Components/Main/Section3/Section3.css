@@ -1,0 +1,23 @@
+.akciidiv {
+    display: flex;
+    justify-content: center;
+}
+
+.zerosdiv {
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    margin: 96px auto 0 auto;
+}
+
+.zeroclass {
+    width: 14px;
+    height: 14px;
+    border: 1px solid grey;
+    background-color: grey;
+    border-radius: 50%;
+}
+
+.zeroclass:hover {
+    background-color: #EC6A06;
+}

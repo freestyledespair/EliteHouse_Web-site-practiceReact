@@ -1,0 +1,80 @@
+.title_block {
+    display: flex;
+    align-items: center;
+}
+
+.title_block p {
+    margin-left: 100px;
+    color: white;
+}
+
+.dom1,
+.dom2,
+.dom3,
+.dom4,
+.dom5,
+.dom6 {
+    width: 29.5%;
+    background-color: #727272;
+    margin-top: 30px;
+    border-radius: 5px;
+    /* box-shadow: 1px 1px 4px 1px; */
+}
+
+.housename {
+    color: white;
+}
+
+.adress-of-house {
+    color: rgb(199, 196, 196);
+}
+
+.nameblock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.hrka {
+    margin: 13px 17px;
+}
+
+.nameblock_2 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.homes_block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.date {
+    text-align: end;
+    color: rgb(199, 196, 196);
+    margin-top: 19px;
+    /* хз почему тут работает, а не там (Section4) */
+}
+
+.obj_categories {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.obj {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.obj:hover {
+    background-color: orange;
+    border-radius: 3em;
+}
